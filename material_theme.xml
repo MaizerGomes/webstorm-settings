@@ -5,7 +5,6 @@
     <option name="compactTables" value="true" />
     <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="premium" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -22,6 +21,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="222f985c:1653d209166:-7fff" />
-    <option name="version" value="6.8.1.1" />
+    <option name="version" value="6.8.2" />
   </component>
 </application>
